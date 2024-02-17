@@ -43,7 +43,7 @@
     "rotateFast": false
   },
   "reversed": false,
-  "folder": "Top-Blue1Note",
+  "folder": null,
   "previewStartingState": {
     "rotation": -91.43802323039974,
     "velocity": 0.8

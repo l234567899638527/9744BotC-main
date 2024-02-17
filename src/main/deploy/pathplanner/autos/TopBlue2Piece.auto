@@ -8,7 +8,7 @@
         {
           "type": "path",
           "data": {
-            "pathName": "TOP-BLUEtoShoot"
+            "pathName": "Top-BlueToShoot"
           }
         },
         {
@@ -20,7 +20,7 @@
         {
           "type": "named",
           "data": {
-            "name": "shootOn"
+            "name": "ShooterOn"
           }
         },
         {
@@ -36,21 +36,15 @@
           }
         },
         {
-          "type": "named",
+          "type": "path",
           "data": {
-            "name": "reverse"
-          }
-        },
-        {
-          "type": "wait",
-          "data": {
-            "waitTime": 0.5
+            "pathName": "Top-BlueReverse"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "TOP-BLUEmove"
+            "pathName": "Top-BlueMove"
           }
         }
       ]
