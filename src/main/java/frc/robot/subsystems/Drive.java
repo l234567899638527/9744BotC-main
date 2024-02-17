@@ -59,7 +59,7 @@ public class Drive extends SubsystemBase {
 
 
   // The gyro sensor
-  private final AHRS m_gyro = new AHRS(SPI.Port.kMXP); //TODO
+  private final AHRS m_gyro = new AHRS(SPI.Port.kMXP); 
 
   // Odometry class for tracking robot pose
   private final DifferentialDriveOdometry m_odometry;
